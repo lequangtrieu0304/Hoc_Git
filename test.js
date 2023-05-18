@@ -1,1 +1,1 @@
-console.log("anh trieu");
+console.log("anh trieu vĩ đại");
